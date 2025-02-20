@@ -1,5 +1,7 @@
 Food Ordering Website
 
+Live : https://rohitsharmazometo.netlify.app/
+
 This repository contains a React Redux application for a food ordering website. The website fetches data from the internet and displays it using React components. The main features of the application include a cart, an about section, and routing to different sections using React Router.
 
 Getting Started
